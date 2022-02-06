@@ -1,0 +1,23 @@
+{
+  "name": "coffemachine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customerorder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BcnCarlos/CoffeMachine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BcnCarlos/CoffeMachine/issues"
+  },
+  "homepage": "https://github.com/BcnCarlos/CoffeMachine#readme",
+  "dependencies": {
+    "jest": "^27.5.0"
+  }
+}
