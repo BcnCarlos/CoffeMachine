@@ -51,7 +51,7 @@ describe('Order', () => {
 
   it('Should return messages if incorrect drink input', () => {
     
-    // Create drink Chocolate with 0 sugar and 0 stick. 
+    // Create drink with incorrect input 
     
     drink = new Order("a", 2 );
 
