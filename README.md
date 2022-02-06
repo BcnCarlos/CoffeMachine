@@ -16,7 +16,7 @@ Jest
 Install CoffeeMachine with npm
 
 ```bash
-  cd CoffeeMachine
+  cd CoffeMachine
   npm install 
   
 ```
